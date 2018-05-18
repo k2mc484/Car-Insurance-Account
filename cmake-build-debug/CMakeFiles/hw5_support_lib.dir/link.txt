@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libhw5_support_lib.a  CMakeFiles/hw5_support_lib.dir/accidents.cpp.o CMakeFiles/hw5_support_lib.dir/CarInsuranceAccountRec.cpp.o CMakeFiles/hw5_support_lib.dir/Date.cpp.o CMakeFiles/hw5_support_lib.dir/PersonalRec.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libhw5_support_lib.a

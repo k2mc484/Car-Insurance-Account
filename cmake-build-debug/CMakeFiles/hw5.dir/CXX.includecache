@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Kyle_hall/username=khall5/fall17/khall5/homework/hw5/CarInsuranceAccountRec.h
+
+/Users/Kyle_hall/username=khall5/fall17/khall5/homework/hw5/Date.h
+
+/Users/Kyle_hall/username=khall5/fall17/khall5/homework/hw5/PersonalRec.h
+
+/Users/Kyle_hall/username=khall5/fall17/khall5/homework/hw5/accidents.h
+iostream
+-
+string
+-
+vector
+-
+math.h
+-
+
+/Users/Kyle_hall/username=khall5/fall17/khall5/homework/hw5/hw5.cpp
+iostream
+-
+string
+-
+math.h
+-
+stdio.h
+-
+Date.h
+/Users/Kyle_hall/username=khall5/fall17/khall5/homework/hw5/Date.h
+accidents.h
+/Users/Kyle_hall/username=khall5/fall17/khall5/homework/hw5/accidents.h
+PersonalRec.h
+/Users/Kyle_hall/username=khall5/fall17/khall5/homework/hw5/PersonalRec.h
+CarInsuranceAccountRec.h
+/Users/Kyle_hall/username=khall5/fall17/khall5/homework/hw5/CarInsuranceAccountRec.h
+
